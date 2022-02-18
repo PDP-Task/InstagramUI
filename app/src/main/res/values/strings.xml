@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">InstagramAppUi</string>
+    <string name="todo">todo</string>
+    <string name="instagram">Instagram</string>
+    <string name="text">
+        Assalom Alaykum. Android Studio Bumble bee da github
+        library lar yuklab bo`lmayapti ba`zilarni yuklayapti bazilari yo`q:
+        Failed to resolve: .....
+        Show in Project Structure dialog
+        Affected Modules: app
+        Shunday muammo kim hal qildi shuni?</string>
+    <string name="stories">Stories</string>
+    <string name="watch_all">Watch All</string>
+</resources>
